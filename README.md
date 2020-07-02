@@ -1,3 +1,3 @@
 # hello-world
 First repository!
-Sam here making some eidts
+Sam here making some edits
